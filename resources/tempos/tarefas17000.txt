@@ -1,0 +1,3 @@
+Ingenua2: 406 ms
+Binaria: 2 ms
+Binaria Balanceada: 2 ms
